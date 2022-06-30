@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.samkirkland.com
         username: kostasgitflow@karanikolas.worK
-        password: ${{ secrets.FTP_FLOW }}
+        password: ${{ secrets.gitflow_kk }}

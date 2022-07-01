@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.rossetto-shop.gr
-        username: kostasgitflow@karanikolas.worK
+        username: kostasgitflow@karanikolas.work
         password: ${{ secrets.gitflow_kk }}
